@@ -1,3 +1,4 @@
+йо
 print("cheese")
 print("cheese")
 print("cheese")
